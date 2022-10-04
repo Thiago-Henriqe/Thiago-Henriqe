@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Estudante do Senac e aspirante a programador.
 
 
