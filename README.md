@@ -19,4 +19,8 @@ Currently looking for a place to work as intern where I can practice what I've l
   <img img align="center" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>
           
-       
+<br> 
+
+  <div>
+  <a href="https://www.linkedin.com/in/thiago-henrique-5a8824245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </div>
