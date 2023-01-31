@@ -1,7 +1,7 @@
 ### Estudante do Senac e aspirante a programador.
 
 
-Atualmente à procura de um estágio na área para que possa colocar os ensimentos em prática ao mesmo tempo adquirindo experiência de trabalho.
+Atualmente à procura de um estágio na área para que possa colocar os ensinamentos em prática ao mesmo tempo adquirindo experiência de trabalho.
 
 Currently looking for a place to work as intern where I can practice what I've learned and also acquire some actual work experience.
 
